@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383443993578",
+    "project_id": "laptopshop-5b492",
+    "storage_bucket": "laptopshop-5b492.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383443993578:android:b93ac1b8fcf40674726893",
+        "android_client_info": {
+          "package_name": "com.example.eproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgk8AXnY2UTTehicUhTliQ2ewAJmeG1_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
